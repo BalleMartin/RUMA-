@@ -1,0 +1,8 @@
+{
+  "name": "RUMA — Rutas para una Movilidad Urbana Adaptativa",
+  "description": "Prototipo académico del IFTS N.º 12 de CABA: asistente conversacional de movilidad urbana en transporte público y caminata con foco en accesibilidad, restricciones y transparencia de datos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
